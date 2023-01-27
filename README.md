@@ -14,7 +14,6 @@
   <img align="right" alt="John-pic" height="200" width="130" style="border-radius:50px;" src="https://github.com/joaomartinscode/joaomartinscode/blob/main/Jo%C3%A3o%20Martins.png">
 </div>
   
-  ##
  
 <div> 
   <a href="https://www.instagram.com/joaomartins.ofc_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
