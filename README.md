@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm João 👋</h1>
-<h3 align="center">A software engineer from Portugal</h3>
+<h3 align="center">A Front-End Developer from Portugal</h3>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
