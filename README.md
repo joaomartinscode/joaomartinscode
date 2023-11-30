@@ -16,11 +16,11 @@
 <br><br>
 
  <div align=center>
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img width=390 src="https://github-readme-stats.vercel.app/api?username=joaomartinscode&count_private=true&show_icons=true&theme=catppuccin_latte" alt="test"/>
+   <a>
+     <img width=390 src="https://github-readme-stats.vercel.app/api?username=joaomartinscode&count_private=true&show_icons=true&theme=github_dark_dimmed"/>
    </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomartinscode&layout=compact&theme=catppuccin_latte" alt="test"/>
+   <a>
+     <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomartinscode&layout=compact&theme=github_dark_dimmed"/>
    </a>
  </div>
 
