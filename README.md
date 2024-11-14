@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm João 👋</h1>
-<h3 align="center">A Front-End Developer from Portugal</h3>
+<h3 align="center">A Computer Science Student from Portugal</h3>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -27,7 +27,6 @@
 
 <div align=center> 
   <h4 align="center">Connect with me</h4>
-  <a href="https://www.instagram.com/joaomartins.ofc_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jfbrancomartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-martins-1b971a195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
