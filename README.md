@@ -23,7 +23,7 @@
      <img width=390 src="https://github-readme-stats.vercel.app/api?username=joaomartinscode&count_private=true&show_icons=true&theme=github_dark_dimmed"/>
    </a>
    <a>
-     <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomartinscode&layout=compact&theme=github_dark_dimmed"/>
+     <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomartinscode&layout=compact&count_private=true&theme=github_dark_dimmed"/>
    </a>
  </div>
 
