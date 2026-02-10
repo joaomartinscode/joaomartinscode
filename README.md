@@ -22,7 +22,7 @@
     <b>🛠️ My Tech Stack:</b>
     <br><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,ts&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts&theme=dark" />
     </a>
   </p>
 </div>
