@@ -31,17 +31,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**Syncronization in Windows**](https://github.com/joaomartinscode/Syncronization-in-Windows) | Order management system preventing deadlocks using **Multithreading**. | `C` `WinAPI` |
-| [**Strategy Game**](https://github.com/joaomartinscode/JogoDeEstrategia) | Turn-based strategy game engine using complex **OOP** logic. | `Java` `OOP` |
-| [**Event Agenda**](https://github.com/joaomartinscode/AgendaDeEventos) | Event management system using **Abstract Data Types (ADTs)**. | `C` `Algorithms` |
-| [**PumpStation**](https://github.com/joaomartinscode/PumpStation) | Gas station simulation with **FIFO** queues and resource management. | `C` `Simulation` |
-
----
-
 <div align="center">
   <h4>Connect with me 📩</h4>
   <a href="mailto:jfbrancomartins@gmail.com">
