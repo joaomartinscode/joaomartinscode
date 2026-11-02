@@ -9,7 +9,7 @@
   <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMyMnpwbnJiN3N1ajFnemN2amdib2lsZG52NWVieTBocmRqeG5xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" />
 
   <p align="left">
-    I am currently in my <b>second year</b> of the <b>Computer Science </b> degree.
+    I am currently in my <b>third year</b> of the <b>Computer Science </b> degree.
     <br><br>
     My main goal right now is to build a <b>strong technical foundation</b> and understand the core concepts of software development. I enjoy taking on complex logic challenges and turning them into efficient code.
     <br><br>
